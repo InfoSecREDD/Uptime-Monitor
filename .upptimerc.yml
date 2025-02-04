@@ -28,10 +28,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Cloud
-      href: $CLOUD_URL
-    - title: GitLab
-      href: $GITLAB_URL
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
