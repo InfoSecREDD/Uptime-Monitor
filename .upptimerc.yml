@@ -28,6 +28,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-
+i18n:
+  footer: Powered by Wizards
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
