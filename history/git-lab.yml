@@ -1,7 +1,7 @@
-url: $GITLAB_URL
+url: https://git.serverbackend.net
 status: down
 code: 403
-responseTime: 103
-lastUpdated: 2025-02-04T20:24:08.438Z
+responseTime: 97
+lastUpdated: 2025-02-04T20:30:42.484Z
 startTime: 2025-02-04T20:24:08.320Z
 generator: Upptime <https://github.com/upptime/upptime>
