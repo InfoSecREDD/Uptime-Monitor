@@ -15,9 +15,6 @@
     "timeWeek": 424,
     "timeMonth": 424,
     "timeYear": 424,
-    "dailyMinutesDown": {
-      "2025-02-04": 126
-    }
   },
   {
     "name": "GitLab",
@@ -35,8 +32,5 @@
     "timeWeek": 605,
     "timeMonth": 605,
     "timeYear": 605,
-    "dailyMinutesDown": {
-      "2025-02-04": 126
-    }
   }
 ]
