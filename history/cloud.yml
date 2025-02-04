@@ -1,7 +1,7 @@
-url: $CLOUD_URL
+url: https://cloud.serverbackend.net
 status: down
 code: 403
-responseTime: 83
-lastUpdated: 2025-02-04T20:24:06.433Z
+responseTime: 81
+lastUpdated: 2025-02-04T20:30:42.173Z
 startTime: 2025-02-04T20:24:06.321Z
 generator: Upptime <https://github.com/upptime/upptime>
