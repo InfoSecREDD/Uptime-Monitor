@@ -5,6 +5,9 @@ repo: Uptime-Monitor # The name of this repository
 sites:
   - name: Cloud
     url: https://cloud.serverbackend.net
+    headers:
+      - "$CF_ID"
+      - "$CF_SECRET"
   - name: GitLab
     url: https://git.serverbackend.net
 #  - name: IPv6 test
