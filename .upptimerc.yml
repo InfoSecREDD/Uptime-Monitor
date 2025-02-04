@@ -4,12 +4,12 @@ repo: Uptime-Monitor # The name of this repository
 
 sites:
   - name: Cloud
-    url: https://cloud.serverbackend.net
+    url: $CLOUD_URL
     headers:
       - "$CF_ID"
       - "$CF_SECRET"
   - name: GitLab
-    url: https://git.serverbackend.net
+    url: $GITLAB_URL
 #  - name: IPv6 test
 #    url: forwardemail.net
 #    port: 80
@@ -29,9 +29,9 @@ status-website:
     - title: Status
       href: /
     - title: Cloud
-      href: https://cloud.serverbackend.net
+      href: $CLOUD_URL
     - title: GitLab
-      href: https://git.serverbackend.net
+      href: $GITLAB_URL
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
