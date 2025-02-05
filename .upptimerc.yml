@@ -22,8 +22,8 @@ status-website:
   cname: monitor.serverbackend.net
   # baseUrl: /Uptime-Monitor
   logoUrl: https://raw.githubusercontent.com/InfoSecREDD/Uptime-Monitor/refs/heads/master/assets/7-hydroxymitragynine-molecule.svg
-  name: Uptime Monitor Tool
-  introTitle: "**Uptime Monitor Tool for ServerBackend**"
+  name: Uptime Monitor
+  introTitle: "**Uptime Monitor Tool**"
   introMessage: Data is refreshed every **5 minutes**.
   navbar:
     - title: Status
