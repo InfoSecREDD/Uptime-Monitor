@@ -4,19 +4,19 @@
     "url": "$CLOUD_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 590,
-    "timeDay": 826,
-    "timeWeek": 757,
-    "timeMonth": 590,
-    "timeYear": 590,
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "97.20%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 872,
+    "timeDay": 2602,
+    "timeWeek": 1474,
+    "timeMonth": 872,
+    "timeYear": 872,
     "dailyMinutesDown": {
-      "2025-02-13": 0
+      "2025-02-13": 40
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$GITLAB_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git-lab",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1378,
-    "timeDay": 2258,
-    "timeWeek": 2741,
-    "timeMonth": 1378,
-    "timeYear": 1378,
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "97.15%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 1723,
+    "timeDay": 4278,
+    "timeWeek": 3501,
+    "timeMonth": 1723,
+    "timeYear": 1723,
     "dailyMinutesDown": {
-      "2025-02-13": 0
+      "2025-02-13": 41
     }
   }
 ]
